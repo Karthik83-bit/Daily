@@ -142,7 +142,7 @@ img {
 }
 
 .main-todo {
-  height: vh;
+  height: 70vh;
   max-width: 500px;
   display: flex;
   align-items: center;
