@@ -90,7 +90,7 @@
   color: rgb(247, 95, 95);
   margin: 5px;
   width: 60px;
-  height: 80%;
+  height: 60%;
   background-color: whitesmoke;
 }
 img {
@@ -142,7 +142,7 @@ img {
 }
 
 .main-todo {
-  height: 70vh;
+  height: vh;
   max-width: 500px;
   display: flex;
   align-items: center;
