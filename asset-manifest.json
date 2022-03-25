@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Daily/static/css/main.fe49c2ed.css",
-    "main.js": "/Daily/static/js/main.676292f2.js",
+    "main.css": "/Daily/static/css/main.bafbeb71.css",
+    "main.js": "/Daily/static/js/main.3929b84e.js",
     "static/js/787.48a35b23.chunk.js": "/Daily/static/js/787.48a35b23.chunk.js",
     "static/media/shine-white-cloud-svgrepo-com.svg": "/Daily/static/media/shine-white-cloud-svgrepo-com.ecd7cbebeda98567da3c667a036ebec7.svg",
     "index.html": "/Daily/index.html",
-    "main.fe49c2ed.css.map": "/Daily/static/css/main.fe49c2ed.css.map",
-    "main.676292f2.js.map": "/Daily/static/js/main.676292f2.js.map",
+    "main.bafbeb71.css.map": "/Daily/static/css/main.bafbeb71.css.map",
+    "main.3929b84e.js.map": "/Daily/static/js/main.3929b84e.js.map",
     "787.48a35b23.chunk.js.map": "/Daily/static/js/787.48a35b23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe49c2ed.css",
-    "static/js/main.676292f2.js"
+    "static/css/main.bafbeb71.css",
+    "static/js/main.3929b84e.js"
   ]
 }
