@@ -25,17 +25,17 @@
   bottom: -10px;
   z-index: 1; */
 
-.header > h1 {
-  padding: 10px 0px 0px 10px;
+.col1 > h1 {
+  padding: 10px 0px 0px 20px;
   font-weight: 80;
 }
-.header > h3 {
-  padding: 0px 100px 0px 25px;
+.col1 > h3 {
+  padding: 0px 100px 0px 30px;
   font-weight: 80;
 }
 
 .src-wrap {
-  margin: 10px 0px 0px 0px;
+  margin: 20px 0px 0px 0px;
   height: 30%;
   max-height: 40px;
   min-height: 40px;
