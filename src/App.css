@@ -8,7 +8,7 @@
   justify-content: center;
 }
 .header {
-  height: 30vh;
+  height: 35vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -93,6 +93,9 @@
   height: 80%;
   background-color: whitesmoke;
 }
+.col1 {
+  height: 35vh;
+}
 img {
   color: white;
 }
@@ -128,7 +131,7 @@ img {
 .src {
   height: 90%;
   width: 75%;
-  margin: 6px;
+  /* margin: 6px; */
   border: none;
   padding: 4px;
   text-transform: capitalize;
@@ -157,6 +160,7 @@ img {
 }
 
 .Todo {
+  word-wrap: break-word;
   text-align: center;
   padding: 0.6em;
   max-width: 500px;
@@ -174,6 +178,7 @@ img {
   border-radius: 50%;
 }
 .Todo > h2 {
+  max-width: 250px;
   margin-left: 2em;
   text-transform: capitalize;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,

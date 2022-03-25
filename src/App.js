@@ -49,7 +49,7 @@ const changeHandler=(e)=>{
   setOptions([e.target.name]=e.target.value)
 }
 const noOfDays=()=>{
-  console.log("this,",new Date().getDate())
+  console.log((new Date().getMinutes().length==1)?("0"+new Date().getMinutes()):new Date().getMinutes())
   var noOfDays=new Date(new Date().getFullYear(),new Date().getMonth()+1,0).getDate();
   console.log( noOfDays)
 }
@@ -60,7 +60,7 @@ noOfDays()
       <div className='cont-l'>
       <div className="header">
       <div className='col1'>
-      <h1 style={{color:"white",fontFamily:'sans-serif',fontSize:"70px"}}>{new Date().getHours() +":"+((new Date().getMinutes().length==1)?"0"+new Date().getMinutes():new Date().getMinutes())}</h1>
+      <h1 style={{color:"white",fontFamily:'sans-serif',fontSize:"70px"}}>{new Date().getHours() +":"+((new Date().getMinutes().length==1)?("0"+new Date().getMinutes()):new Date().getMinutes())}</h1>
     <h3>{weekday}</h3>
   
     <div className='cal-wrap'>
